@@ -7,16 +7,17 @@
 📚 Graduated with a Bachelor's degree in Business Information Technology from the University of HE-ARC Gestion, Switzerland<br>🔭 I am currently seeking new career opportunities in Information Technology, Software Development, or Business Analysis.<br>📬 Connect with me on : [Linkedin](https://www.linkedin.com/in/lambert-kasaev-55266b228/)
  <br>
 
+<div style="display: flex;">
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+   <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+   <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
+</div>
 
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-<img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmli5iyeqr2zhu42xynnzsggfy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4fb14e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
