@@ -22,13 +22,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fmli5iyeqr2zhu42xynnzsggfy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4fb14e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
- Here you'll find all of my projects and contributions.
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-Feel free to check out my repositories!
-
 
 # 💻 Tech Stack:
 ## 🤖 Artificial Intelligence and Bots
