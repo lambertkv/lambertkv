@@ -4,19 +4,9 @@
 # Hi there, I'm Lambert <img src="Assets/jjk.gif" alt="jjk" width="65" style="vertical-align:middle; margin-right:10px;" />
 ![](https://komarev.com/ghpvc/?username=lambertkv&color=blueviolet) <br><br>
 📍 Based in Switzerland <br>
-📚 Graduated with a Bachelor's degree in Business Information Technology from the University of HE-ARC Gestion, Switzerland<br>🔭 I am currently seeking new career opportunities in Information Technology, Software Development, or Business Analysis.<br>📬 Connect with me on : [Linkedin](https://www.linkedin.com/in/lambert-kasaev-55266b228/)
+📚 Graduated with a Bachelor's degree in Business Information Technology from the University of HE-ARC Gestion, Switzerland<br>🔭 I am currently working at the Federal Office of Information Technology and Telecommunications as project coordination intern .<br>📬 Connect with me on : [Linkedin](https://www.linkedin.com/in/lambert-kasaev-55266b228/)
  <br>
 
-<div style="display: flex;">
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-  <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-   <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-   <img src="Assets/dancingParrot1.gif" alt="parrot" width="25" style="vertical-align:middle; margin-right:5px;" />
-</div>
 
 
 # 💻 Tech Stack:
